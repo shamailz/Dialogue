@@ -19,12 +19,40 @@ body{
 	font-family: 'Ruluko', sans-serif;
 	text-align: left;
 	color: lightblue;
-	line-height: 100px;
+	line-height: 50px;
 }
 .box-3{
 	font-size: 20px;
 	font-family: 'Ruluko', sans-serif;
 	text-align: right;
+	color: pink;
+	line-height: 50px;
+}
+.box-4{
+	font-size: 20px;
+	font-family: 'Ruluko', sans-serif;
+	text-align: left;
 	color: lightblue;
-	line-height: 100px;
+	line-height: 50px;
+}
+.box-5{
+	font-size: 20px;
+	font-family: 'Ruluko', sans-serif;
+	text-align: right;
+	color: pink;
+	line-height: 50px;
+}
+.box-6{
+	font-size: 20px;
+	font-family: 'Ruluko', sans-serif;
+	text-align: left;
+	color: lightblue;
+	line-height: 50px;
+}
+.box-7{
+	font-size: 20px;
+	font-family: 'Ruluko', sans-serif;
+	text-align: right;
+	color: pink;
+	line-height: 50px;
 }
