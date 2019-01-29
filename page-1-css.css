@@ -11,5 +11,6 @@ body{
 .box-1{
 	font-size: 90px;
 	font-family: 'Ruluko', sans-serif;
+	position: center;
 	color: white;
 }
