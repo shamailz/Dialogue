@@ -177,14 +177,14 @@ body{
 	padding-left: 20px;
 	padding-right: 20px;
 }
-.box-10{
-	font-size: 20px;
+.box-20{
+	font-size: 90px;
 	font-family: 'Ruluko', sans-serif;
-	text-align: left;
-	color: lightblue;
-	line-height: 50px;
-	padding-left: 20px;
-	padding-right: 20px;
+	text-align: center;
+	color: white;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
 }
 .box-21{
 	font-size: 20px;
