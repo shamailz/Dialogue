@@ -13,13 +13,14 @@ body{
 	font-family: 'Ruluko', sans-serif;
 	text-align: center;
 	color: white;
+	padding-bottom: 50px;
 }
 .box-2{
 	font-size: 20px;
 	font-family: 'Ruluko', sans-serif;
 	text-align: left;
 	color: lightblue;
-	line-height: 100px;
+	line-height: 50px;
 }
 .box-3{
 	font-size: 20px;
