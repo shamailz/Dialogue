@@ -8,8 +8,6 @@ body{
 	background-color: hsl(33, 82%, 9%);
 }
 
-header{
-	font-size: 47px;
+.header-1{
 	color: white;
-	font-style: serif;
 }
