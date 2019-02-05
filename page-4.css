@@ -7,6 +7,9 @@ body{
 	background-color: hsl(41, 94%, 69%);
  	 min-height: 100vh;
 }
+.content{
+		text-decoration: none;
+}
 .box-1{
 	font-size: 90px;
 	font-family: 'Ruluko', sans-serif;
