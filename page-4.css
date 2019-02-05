@@ -7,17 +7,21 @@ body{
 	background-color: hsl(41, 94%, 69%);
  	 min-height: 100vh;
 }
+a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+	color: hsl(37, 53%, 89%);
+}
 .box-1{
 	text-decoration: none;
 	font-size: 90px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: black;
 	padding-bottom: 20px;
 }
 .box-33{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;
@@ -26,7 +30,7 @@ body{
 }
 .box-34{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
 	line-height: 50px;
@@ -35,7 +39,7 @@ body{
 }
 .box-35{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;
@@ -44,7 +48,7 @@ body{
 }
 .box-36{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
 	line-height: 50px;
@@ -53,7 +57,7 @@ body{
 }
 .box-37{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;
@@ -62,7 +66,7 @@ body{
 }
 .box-38{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
 	line-height: 50px;
@@ -72,7 +76,7 @@ body{
 .box-39{
 	text-decoration: none;
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;

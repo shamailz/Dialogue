@@ -7,16 +7,20 @@ body{
 	background-color: hsl(41, 94%, 69%);
  	 min-height: 100vh;
 }
+a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+	color: hsl(37, 53%, 89%);
+}
 .box-1{
 	font-size: 90px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: black;
 	padding-bottom: 20px;
 }
 .box-21{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;
@@ -25,7 +29,7 @@ body{
 }
 .box-22{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
 	line-height: 50px;
@@ -34,7 +38,7 @@ body{
 }
 .box-23{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;
@@ -43,7 +47,7 @@ body{
 }
 .box-24{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
 	line-height: 50px;
@@ -52,7 +56,7 @@ body{
 }
 .box-25{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;
@@ -61,7 +65,7 @@ body{
 }
 .box-26{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
 	line-height: 50px;
@@ -70,7 +74,7 @@ body{
 }
 .box-27{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;
@@ -79,7 +83,7 @@ body{
 }
 .box-28{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
 	line-height: 50px;
@@ -88,7 +92,7 @@ body{
 }
 .box-29{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;
@@ -97,7 +101,7 @@ body{
 }
 .box-30{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
 	line-height: 50px;
@@ -106,7 +110,7 @@ body{
 }
 .box-31{
 	font-size: 20px;
-	font-family: 'Ruluko', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
 	line-height: 50px;

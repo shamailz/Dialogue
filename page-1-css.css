@@ -7,7 +7,10 @@
 body{
 	background-color: hsl(33, 82%, 9%);
 }
-
+a:hover, a:visited, a:link, a:active{
+	text-decoration: none;
+	color: white;
+}
 .box-1{
 	font-size: 90px;
 	font-family: 'Ruluko', sans-serif;
