@@ -5,6 +5,7 @@
 
 body{
 	background-color: hsl(41, 94%, 69%);
+ 	 min-height: 100vh;
 }
 .box-1{
 	font-size: 90px;
@@ -15,6 +16,8 @@ body{
 }
 .box-2{
 	font-size: 20px;
+
+	transform: font-size (1s);
 	font-family: 'Ruluko', sans-serif;
 	text-align: right;
 	color: hsl(37, 53%, 89%);
@@ -22,7 +25,9 @@ body{
 	padding-left: 200px;
 	padding-right: 70px;
 }
-
+.content:click .box-2{
+	font-size: 45px;
+}
 .box-3{
 	font-size: 20px;
 	font-family: 'Ruluko', sans-serif;
