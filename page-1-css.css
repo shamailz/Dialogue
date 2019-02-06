@@ -9,7 +9,7 @@ body{
 }
 a:hover, a:visited, a:link, a:active{
 	text-decoration: none;
-	color: white;
+	color: hsl(37, 53%, 89%);
 }
 .box-1{
 	font-size: 90px;

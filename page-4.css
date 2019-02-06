@@ -9,7 +9,7 @@ body{
 }
 a:hover, a:visited, a:link, a:active{
 	text-decoration: none;
-	color: hsl(37, 53%, 89%);
+	color: white;
 }
 .box-1{
 	text-decoration: none;
@@ -23,7 +23,7 @@ a:hover, a:visited, a:link, a:active{
 	font-size: 20px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
-	color: hsl(37, 53%, 89%);
+	color: white;
 	line-height: 50px;
 	padding-left: 200px;
 	padding-right: 70px;
@@ -41,7 +41,7 @@ a:hover, a:visited, a:link, a:active{
 	font-size: 20px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
-	color: hsl(37, 53%, 89%);
+	color: white;
 	line-height: 50px;
 	padding-left: 200px;
 	padding-right: 70px;
@@ -59,7 +59,7 @@ a:hover, a:visited, a:link, a:active{
 	font-size: 20px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
-	color: hsl(37, 53%, 89%);
+	color: white;
 	line-height: 50px;
 	padding-left: 200px;
 	padding-right: 70px;
@@ -78,7 +78,7 @@ a:hover, a:visited, a:link, a:active{
 	font-size: 20px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
-	color: hsl(37, 53%, 89%);
+	color: white;
 	line-height: 50px;
 	padding-left: 200px;
 	padding-right: 70px;
