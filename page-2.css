@@ -19,7 +19,7 @@ a:hover, a:visited, a:link, a:active{
 	padding-bottom: 20px;
 }
 .box-2{
-	font-size: 20px;
+	font-size: 60px;
 	transform: font-size (1s);
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
@@ -68,7 +68,7 @@ a:hover, a:visited, a:link, a:active{
 	padding-right: 70px;
 }
 .box-7{
-	font-size: 20px;
+	font-size: 10px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
@@ -77,7 +77,7 @@ a:hover, a:visited, a:link, a:active{
 	padding-right: 200px;
 }
 .box-8{
-	font-size: 20px;
+	font-size: 60px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: white;
@@ -95,7 +95,7 @@ a:hover, a:visited, a:link, a:active{
 	padding-right: 200px;
 }
 .box-10{
-	font-size: 20px;
+	font-size: 10px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: white;
@@ -113,16 +113,16 @@ a:hover, a:visited, a:link, a:active{
 	padding-right: 200px;
 }
 .box-12{
-	font-size: 20px;
+	font-size: 30px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
-	color: hsl(37, 53%, 89%);
+	color: white;
 	line-height: 50px;
 	padding-left: 200px;
 	padding-right: 70px;
 }
 .box-13{
-	font-size: 20px;
+	font-size: 10px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
@@ -149,7 +149,7 @@ a:hover, a:visited, a:link, a:active{
 	padding-right: 200px;
 }
 .box-16{
-	font-size: 20px;
+	font-size: 60px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: white;
@@ -177,7 +177,7 @@ a:hover, a:visited, a:link, a:active{
 }
 .box-19{
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 30px;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: left;
 	color: lightblue;
