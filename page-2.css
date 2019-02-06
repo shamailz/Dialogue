@@ -19,8 +19,7 @@ a:hover, a:visited, a:link, a:active{
 	padding-bottom: 20px;
 }
 .box-2{
-	font-size: 60px;
-	transform: font-size (1s);
+	font-size: -200%;
 	font-family: 'Libre Franklin', sans-serif;
 	text-align: right;
 	color: white;
