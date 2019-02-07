@@ -9,7 +9,7 @@ body{
 }
 a:hover, a:visited, a:link, a:active{
 	text-decoration: none;
-	color: hsl(218, 45%, 62%);
+	color: white;
 }
 #span{
 	font-size: 20px;
@@ -229,6 +229,16 @@ a:hover, a:visited, a:link, a:active{
 	text-align: left;
 	display: inline-block;
 	margin-left: 5vw;
+}
+.box-22{
+	font-size: 50px;
+	font-family: 'Libre Franklin', sans-serif;
+	text-align: right;
+	color: white;
+	width: 35vw;
+	display: inline-block;
+	text-align: right;
+	margin-left: 25vw;
 }
 #big-text:hover{
 	font-size: 300%;
