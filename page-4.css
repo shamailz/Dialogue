@@ -12,9 +12,12 @@ body{
 		font-size: 20%;
 	}
 }
-a:hover, a:visited, a:link, a:active{
+a:visited, a:link, a:active{
 	text-decoration: none;
 	color: hsl(218, 45%, 62%);
+}
+a:hover{
+	text-decoration: underline;
 }
 .box-1{
 	text-decoration: none;
@@ -142,4 +145,10 @@ a:hover, a:visited, a:link, a:active{
 #tiny-text:hover{
 	font-size: 20%;
 	transition-duration: 3s;
+}
+#big-text{
+	text-decoration: underline;
+}
+#tiny-text{
+	text-decoration: underline;
 }
