@@ -7,8 +7,12 @@ body{
 	background-color: hsl(41, 94%, 69%);
  	 min-height: 100vh;
 }
-a:hover, a:visited, a:link, a:active{
+a:visited, a:link, a:active{
 	text-decoration: none;
+	color: hsl(218, 45%, 62%);
+}
+a:hover{
+	text-decoration: underline;
 	color: hsl(218, 45%, 62%);
 }
 .box-1{
@@ -152,6 +156,12 @@ a:hover, a:visited, a:link, a:active{
 	display: inline-block;
 	text-align: right;
 	margin-left: 25vw;
+}
+#big-text{
+	text-decoration: underline
+}
+#tiny-text{
+	text-decoration: underline
 }
 #big-text:hover{
 	font-size: 300%;
