@@ -254,6 +254,7 @@ a:hover{
 	font-size: 300%;
 	transition-duration: 2s;
 	text-decoration: none;
+	}
 #tiny-text:hover{
 	font-size: 20%;
 	transition-duration: 2s;
