@@ -7,10 +7,13 @@ body{
 	background-color: hsl(41, 94%, 69%);
  	 min-height: 100vh;
 }
-a:hover, a:visited, a:link, a:active{
+a:visited, a:link, a:active{
 	text-decoration: none;
 	color: white;
 }
+a:hover{
+	text-decoration: underline;
+	color: white;
 #span{
 	font-size: 20px;
 }
@@ -240,7 +243,14 @@ a:hover, a:visited, a:link, a:active{
 	text-align: right;
 	margin-left: 25vw;
 }
+#big-text{
+	text-decoration: underline;
+	}
+#tiny-text{
+	text-decoration: underline;
+	}
 #big-text:hover{
+	text-decoration: none;
 	font-size: 300%;
 	transition-duration: 2s;
 }
